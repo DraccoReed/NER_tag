@@ -1,0 +1,5 @@
+dnspython
+CRFsuite
+pandas
+nltk
+joblib
